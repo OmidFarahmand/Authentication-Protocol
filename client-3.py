@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 # Full Name: Omid Farahmand
-# Course ID: EECS4481 M
 # Description: Impelementation of a secure, log-based client for photo sharing.
 # Each opeartion is protected by a chained HMAC (using a shared secret).
 # Photo data is verified using per-photo hashes to detect tampering, while version numbers prevent reordering or replay attacks from a malicious server.
