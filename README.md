@@ -1,4 +1,4 @@
-**EECS 4481M Assignment 1 Report**  
+**Authentication-Protocol Report**  
 **Author:** Omid Farahmand  
 ---
 
