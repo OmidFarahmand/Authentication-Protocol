@@ -5,7 +5,6 @@
 # Each opeartion is protected by a chained HMAC (using a shared secret).
 # Photo data is verified using per-photo hashes to detect tampering, while version numbers prevent reordering or replay attacks from a malicious server.
 
-# FOR EDUCATION PURPOSE ONLY. DO NOT SHARE OR DISTRIBUTE WITHOUT PERMISSION
 
 import typing as t
 import uuid
